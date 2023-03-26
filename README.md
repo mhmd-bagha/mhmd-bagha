@@ -24,7 +24,7 @@ I'm a Full Stack Developer form Iran
 ![Mysql](https://img.shields.io/badge/Mysql-417399?logo=Mysql&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-4C2DA9?logo=Linux&logoColor=white&style=for-the-badge)
 
-### My Social Media
+### My Social Networks
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ebrahimi-bagha)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:mabrahimibagha@gmail.com)
