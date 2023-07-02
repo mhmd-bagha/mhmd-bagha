@@ -2,8 +2,8 @@
 
 I'm a Full Stack Developer form Iran
 
-- 🔭 as a Full Stack Developer, I create a web applications by Nextjs and Laravel.
-- ⚡ Now, I'm ready to work as freelancer and with teams.
+- 🔭 As a Full-Stack Developer, I create web applications by Nextjs and Laravel.
+- ⚡ Now, I'm ready to work as a freelancer and I am enthusiastic to collaborate with any team.
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Stats :
 
