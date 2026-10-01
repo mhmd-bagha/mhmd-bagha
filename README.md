@@ -58,10 +58,9 @@ I'm **Mohammad Ebrahimi Bagha**, a **Full-Stack Developer from Iran** focused on
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nestjs,nodejs,redis,postgres,docker,git,linux,vercel&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nestjs,nodejs,redis,postgres,docker,git,linux&theme=dark" alt="Skills" />
 </p>
 
 ---
