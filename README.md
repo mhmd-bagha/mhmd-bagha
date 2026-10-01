@@ -25,7 +25,6 @@ I'm **Mohammad Ebrahimi Bagha**, a **Full-Stack Developer from Iran** focused on
 - 🔭 I build production web apps with **Next.js (frontend)** + **NestJS (backend)** in **TypeScript**
 - 🗺️ Experienced with **interactive maps (Leaflet)** and **realtime features (SignalR / WebSocket)**
 - 🎨 I craft modern UI with **Tailwind CSS + shadcn/ui** — accessible, responsive, RTL-ready
-- ⚡ Previously worked with **Laravel / PHP** — now focused on the **TypeScript full-stack ecosystem**
 - 🤝 Open to **freelance projects** and enthusiastic about **collaborating with teams**
 
 > I care about clean architecture, DX, performance, and UX details that users feel but never notice.
@@ -51,8 +50,6 @@ I'm **Mohammad Ebrahimi Bagha**, a **Full-Stack Developer from Iran** focused on
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,7 +62,7 @@ I'm **Mohammad Ebrahimi Bagha**, a **Full-Stack Developer from Iran** focused on
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nestjs,nodejs,laravel,php,redis,mysql,postgres,docker,git,linux,vercel&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nestjs,nodejs,redis,mysql,postgres,docker,git,linux,vercel&theme=dark" alt="Skills" />
 </p>
 
 ---
