@@ -51,7 +51,6 @@ I'm **Mohammad Ebrahimi Bagha**, a **Full-Stack Developer from Iran** focused on
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Ops**
@@ -62,7 +61,7 @@ I'm **Mohammad Ebrahimi Bagha**, a **Full-Stack Developer from Iran** focused on
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nestjs,nodejs,redis,mysql,postgres,docker,git,linux,vercel&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nestjs,nodejs,redis,postgres,docker,git,linux,vercel&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -72,7 +71,7 @@ I'm **Mohammad Ebrahimi Bagha**, a **Full-Stack Developer from Iran** focused on
 | Area | Details |
 |------|---------|
 | 🖥️ **Frontend Engineering** | Next.js App Router, SSR/SSG/ISR, TypeScript strict, shadcn/ui design system, Tailwind, forms (react-hook-form + zod), state (Redux / Zustand / React Query) |
-| 🔌 **Backend Engineering** | NestJS modular architecture, REST APIs, auth (JWT), validation, caching with Redis, MySQL/PostgreSQL with Prisma/TypeORM |
+| 🔌 **Backend Engineering** | NestJS modular architecture, REST APIs, auth (JWT), validation, caching with Redis, PostgreSQL with Prisma/TypeORM |
 | 🗺️ **Maps & Geo** | Leaflet interactive maps, markers/clustering, GeoJSON layers, custom tiles, location search, realtime tracking UI |
 | ⚡ **Realtime** | SignalR / WebSocket live updates, notifications, dashboards, chat, tracking — with reconnection + fallback handling |
 | 🚀 **Quality & Delivery** | Clean code, reusable components, performance (lazy, memo, code-split), SEO basics, Dockerized deploys, Git workflow |
